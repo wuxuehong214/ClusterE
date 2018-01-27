@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<!DOCTYPE plugin PUBLIC "-//JPF//Java Plug-in Manifest 1.0" "http://jpf.sourceforge.net/plugin_1_0.dtd">
+<plugin id="com.wuxuehong.plugin.Dpclus" version="1.0.0"
+	class="com.wuxuehong.plugin.Dplus">
+	<runtime>
+		<library id="Dpclus" path="/" type="code"/>
+	</runtime>
+</plugin>

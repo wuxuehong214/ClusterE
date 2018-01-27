@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<!DOCTYPE plugin PUBLIC "-//JPF//Java Plug-in Manifest 1.0" "http://jpf.sourceforge.net/plugin_1_0.dtd">
+<plugin id="com.wuxuehong.plugin.monet" version="1.0.0"
+	class="com.wuxuehong.plugin.MonetAlgorithm">
+	<runtime>
+		<library id="monet" path="/" type="code"/>
+	</runtime>
+</plugin>

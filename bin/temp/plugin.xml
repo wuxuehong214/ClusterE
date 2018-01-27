@@ -1,0 +1,8 @@
+<?xml version="1.0" ?>
+<!DOCTYPE plugin PUBLIC "-//JPF//Java Plug-in Manifest 1.0" "http://jpf.sourceforge.net/plugin_1_0.dtd">
+<plugin id="com.wuxuehong.plugin.basicaa" version="1.0.0"
+	class="com.wuxuehong.plugin.WuTest">
+	<runtime>
+		<library id="basicaa" path="/" type="code"/>
+	</runtime>
+</plugin>

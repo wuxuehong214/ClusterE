@@ -1,0 +1,12 @@
+clustere
+clustere.actions
+clustere.dialogs
+clustere.editors
+clustere.layout
+clustere.pluginAction
+clustere.pluginLoader
+clustere.tableViewer
+clustere.treeViewer
+clustere.views
+com.wuxuehong.bean
+com.wuxuehong.interfaces
